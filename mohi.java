@@ -1,2 +1,2 @@
 ihello.java
-good morning
+good morning from child
